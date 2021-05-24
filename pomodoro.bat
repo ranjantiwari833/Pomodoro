@@ -1,0 +1,2 @@
+python pomodoro.py
+PAUSE
